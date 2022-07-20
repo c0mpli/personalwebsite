@@ -1,0 +1,108 @@
+*{
+    color:white;
+    box-sizing: border-box; 
+    font-family: Raleway,sans-serif;
+}
+.body{
+  padding-left: 12rem;
+  width: 85%;
+}
+.main-wrapper{
+    display: flex;
+    padding-top: 3rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title{
+    display:block;
+    font-size:6rem;
+    font-weight: bold;
+}
+.playful {
+  transition: all 0.4s cubic-bezier(0.15, 0.75, 0.45, 0.95) 0s;
+  animation: 10s ease 0s infinite alternate none running rainbow;
+}
+
+.personicon{
+ 
+  width: 230px;
+  height: 270px;
+}
+
+.subtitle{
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
+
+@keyframes rainbow {
+    0% {
+      color: rgb(240, 77, 255);
+    }
+    25% {
+      color: rgb(255, 77, 77);
+    }
+    50% {
+      color: rgb(255, 197, 77);
+    }
+    75% {
+      color: rgb(106, 237, 118);
+    }
+    100% {
+      color: rgb(0, 153, 255);
+    }
+  }
+
+
+  @media(max-width:1289px) {
+    
+    .title{
+      font-size: 5rem;
+      
+    }
+    .personicon{
+      width: 180px;
+      height: 200px;
+    }
+  }
+  @media(max-width:977px){
+    .body{
+      width: 90%;
+      padding-left: 6rem;
+    }
+  }
+  @media(max-width:770px){
+    .body{
+      padding-left: 1rem;
+      width: 95%;
+  }
+  }
+  @media(max-width:694px) {
+    
+    .title{
+      font-size: 3rem;
+    }
+    .personicon{
+      width: 130px;
+      height: 150px;
+    }
+    .subtitle{
+      font-size: 1rem;
+    }
+  }
+
+  @media(max-width:510px) {
+    
+    .title{
+      font-size: 2rem;
+    }
+    .personicon{
+      width: 100px;
+      height: 120px;
+    }
+    .subtitle{
+      font-size: 0.8rem;
+    }
+  }
+ 

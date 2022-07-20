@@ -1,8 +1,9 @@
 import React, {useState} from 'react'
-import "../components/Navbar.css"
+import "./Navbar.css"
+
 function Navbar() {
   return (
-    <>
+    <div>
         <nav className='navbar'>
             <a href="/" className='logo'>JD</a>
             <ul>
@@ -20,7 +21,7 @@ function Navbar() {
             </ul>
         </nav>
 
-    </>
+    </div>
   )
 }
 

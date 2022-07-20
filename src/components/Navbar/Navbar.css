@@ -5,13 +5,12 @@
 
 body{
     margin:0;
-    padding-left: 12rem;
-    padding-right: 15rem;
     background-color: black;
 }
 
 .navbar{
-    width: 100%;
+    padding-left: 12rem;
+    width: 85%;
     background-color: black;
     color: white;
     display: flex;
@@ -47,8 +46,9 @@ svg{
 
 
 @media(max-width:977px){
-    body{
-        padding: 0 8rem;
+    .navbar{
+        width: 90%;
+        padding-left: 6rem;
     }
     .navbar ul{
         font-size: 15px;
@@ -56,13 +56,13 @@ svg{
     }
     svg{
         width: 0.8em;
-        
     }
 }
 
 @media(max-width:770px){
-    body{
-        padding: 0 1rem;
+    .navbar{
+        padding-left: 1rem;
+        width: 95%;
     }
 
 }
