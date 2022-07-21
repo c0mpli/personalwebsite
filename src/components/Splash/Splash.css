@@ -1,0 +1,22 @@
+
+.splash-background{
+    overflow: hidden;
+    background-color: white;
+    height: 1000px;
+}
+
+.ball{
+    margin: -100px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: black;
+    animation: zoom 1s 1.8s;
+    animation-fill-mode: both;
+}
+
+@keyframes zoom{
+    100%{
+        transform: scale(20);
+    }
+}
