@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import "./Navbar.css"
 
 function Navbar() {
+    document.title = "Jash Doshi"
   return (
     <div>
         <nav className='navbar'>

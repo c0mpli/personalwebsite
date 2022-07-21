@@ -4,6 +4,7 @@ import { TweenMax,Bounce } from 'gsap';
 
 
 function Splash(){
+    document.title = "Jash Doshi"
     let ball = useRef(null)
 
     useEffect(()=>{
