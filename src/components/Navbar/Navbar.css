@@ -17,6 +17,8 @@ body{
     justify-content: space-between;
     align-items: center;
     height: 11vh;
+    animation: fadeIn 1s ease-out 0.5s;
+    animation-fill-mode: both;
 }
 svg{
     width: 1em;
@@ -65,4 +67,13 @@ svg{
         width: 95%;
     }
 
+}
+
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }
