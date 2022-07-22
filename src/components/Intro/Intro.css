@@ -43,6 +43,7 @@
   animation-fill-mode: both;
 }
 .project-button{
+  color:white;
   cursor: pointer;
   display: block;
   margin: 2rem auto;
