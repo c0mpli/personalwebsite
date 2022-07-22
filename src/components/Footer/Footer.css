@@ -1,9 +1,11 @@
 .footer-wrapper{
-    margin-top: 12rem;
-    margin-bottom: 16rem;
+    padding-top: 15rem;
+    height: 700px;
     color:white;
     text-align: center;
+    width: 100%;
 }
+
 h1{
     font-size: 60px;
 }
@@ -13,11 +15,26 @@ footer ul{
     list-style: none;
     display: flex;
     justify-content: center;
+    gap: 3rem;
+    align-items: center;
   
 }
 
-footer ul li{
-    padding: 0 2rem;
-    
+footer ul li a{
+    cursor: pointer;
 }
 
+footer li:hover{
+    transform: scale(1.11);
+    transition: 0.3s;
+}
+
+@media(max-width:770px){
+    h1{
+        font-size: 40px;
+    }
+    footer ul{
+        gap: 1.5rem;
+    }
+
+}
