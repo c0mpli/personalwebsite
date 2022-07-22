@@ -11,7 +11,7 @@ function Project(){
             Projects.map(project =>{
                 return(
                     <div className='project' key={project.id}>
-                        <img src={`${project.image}`} class="project-image"></img>
+                        <img src={project.image} class="project-image"></img>
                         <div className='project-info'>
                             <h2>{project.name}</h2>
                             <p className='project-description'>{project.description}</p>

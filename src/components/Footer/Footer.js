@@ -1,13 +1,21 @@
-import React, {useEffect, useRef} from 'react'
+import React, {useEffect, useRef, useState} from 'react'
 import "./Footer.css"
 import {motion} from 'framer-motion'
-
+import {useInView} from 'react-intersection-observer'
 function Footer(){
+    const {ref, inView} = useInView();
+    console.log(inView)
+    
     return(
         <>  
-            <footer>
+            <motion.footer 
+                initial={{ opacity: 0}}
+                animate={{opacity:inView?1:0 }}
+                transition={{duration:inView?1.5:0,delay:inView?0.5:0}}
+                ref={ref}
+            >
                 <div className='footer-wrapper'>
-                    <h1>Connect with Me</h1>
+                    <h1 >Connect with Me</h1>
                     <nav>
                         <ul>
                             <li><a>Resume</a></li>
@@ -27,7 +35,7 @@ function Footer(){
                         </ul>
                     </nav>
                 </div>
-            </footer>
+            </motion.footer>
         </>
     )
 };
