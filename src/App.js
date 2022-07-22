@@ -3,7 +3,8 @@ import Navbar from './components/Navbar/Navbar';
 import Intro from './components/Intro/Intro';
 import Splash from './components/Splash/Splash'
 import { useEffect, useState } from 'react';
-
+import Project from './components/Project/Project';
+import Footer from './components/Footer/Footer'
 
 
 function App() {
@@ -22,6 +23,8 @@ function App() {
       <>
         <Navbar/>
         <Intro/>
+        <Project/>
+        <Footer/>
       </>
     
   );

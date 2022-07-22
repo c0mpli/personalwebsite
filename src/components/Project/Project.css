@@ -1,0 +1,45 @@
+
+*{
+    box-sizing: border-box; 
+    font-family: Raleway,sans-serif;
+ }
+.project{
+    color:white;
+    display: flex;
+    padding-left: 9rem;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    padding-right: 6rem;
+}
+
+img{
+    width: 700px;
+    height: 400px;
+    border-radius: 1rem;
+}
+h2{
+    font-size: 32px;
+}
+.project-info{
+    width: 100%;
+    padding-top: 2rem;
+    padding-left: 5rem;
+}
+
+.project-description{
+    font-size: 16px;
+    font-weight: 300;
+    color: darkgrey;
+}
+
+button{
+    font-weight: 300;
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 40%;
+    border-radius: 20px;
+    margin-right: 1rem;
+    font-size: 1rem;
+}
+

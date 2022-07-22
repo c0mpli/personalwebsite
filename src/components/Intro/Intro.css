@@ -1,11 +1,12 @@
 *{
-    color:white;
+
     box-sizing: border-box; 
     font-family: Raleway,sans-serif;
 }
 .body{
   padding-left: 12rem;
   width: 85%;
+  color:white;
 }
 .main-wrapper{
     display: flex;
@@ -15,6 +16,7 @@
 }
 
 .title{
+  
     display:block;
     font-size:6rem;
     font-weight: bold;
