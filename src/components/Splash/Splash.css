@@ -2,7 +2,7 @@
 .splash-background{
     overflow: hidden;
     background-color: white;
-    height: 1000px;
+    height: 100vh;
 }
 
 .ball{

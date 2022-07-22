@@ -1,6 +1,6 @@
 .footer-wrapper{
     padding-top: 15rem;
-    height: 700px;
+    height: 100vh;
     color:white;
     text-align: center;
     width: 100%;
@@ -17,6 +17,7 @@ footer ul{
     justify-content: center;
     gap: 3rem;
     align-items: center;
+    font-size: 15px;
   
 }
 
@@ -31,9 +32,12 @@ footer li:hover{
 
 @media(max-width:770px){
     h1{
-        font-size: 40px;
+        font-size: 38px;
     }
     footer ul{
+        margin: 0;
+        padding: 0;
+        font-size: 14px;
         gap: 1.5rem;
     }
 

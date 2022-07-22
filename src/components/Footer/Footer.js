@@ -1,6 +1,6 @@
-import React from 'react'
+import React, {useEffect, useRef} from 'react'
 import "./Footer.css"
-
+import {motion} from 'framer-motion'
 
 function Footer(){
     return(

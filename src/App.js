@@ -23,7 +23,7 @@ function App() {
       <>
         <Navbar/>
         <Intro/>
-        <Project/>
+        //<Project/>
         <Footer/>
       </>
     
