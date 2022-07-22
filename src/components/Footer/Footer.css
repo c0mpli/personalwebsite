@@ -1,7 +1,23 @@
 .footer-wrapper{
-    margin-top: 15rem;
-    margin-bottom: 15rem;
-    text-align: center;
+    margin-top: 12rem;
+    margin-bottom: 16rem;
     color:white;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+
+footer ul{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  
+}
+
+footer ul li{
+    padding: 0 2rem;
+    
 }
 
