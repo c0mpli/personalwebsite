@@ -4,8 +4,6 @@ import {motion} from 'framer-motion'
 import {useInView} from 'react-intersection-observer'
 function Footer(){
     const {ref, inView} = useInView();
-    console.log(inView)
-    
     return(
         <>  
             <motion.footer 

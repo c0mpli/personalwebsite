@@ -1,5 +1,4 @@
 
-import Navbar from './components/Navbar/Navbar';
 import Intro from './components/Intro/Intro';
 import Splash from './components/Splash/Splash'
 import { useEffect, useState } from 'react';
@@ -21,8 +20,8 @@ function App() {
       <Splash/>
       :
       <>
-        <Navbar/>
         <Intro/>
+        <Project/>
         <Footer/>
       </>
     
