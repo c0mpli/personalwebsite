@@ -6,13 +6,13 @@
 
 body{
    margin:0;
-   background-color: black;
+   background-color: #121212;
 }
 
 .navbar{
    padding-left: 12rem;
    width: 85%;
-   background-color: black;
+   background-color: #121212;
    color: white;
    display: flex;
    justify-content: space-between;
@@ -123,7 +123,7 @@ svg{
   cursor: pointer;
   display: block;
   margin: 2rem auto;
-  background-color: black;
+  background-color: #121212;
   font-size:1rem;
   font-weight: 700;
   border: none;
