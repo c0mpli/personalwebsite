@@ -8,6 +8,7 @@ const projectList =
         "website":"",
         "github":"https://github.com/c0mpli/PiedPiper-TSEC-Hacks-2022",
         "tools": ["HTML", "CSS", "Javascript"],
+        inView:false
     },
     {
         "id":2,
@@ -17,6 +18,7 @@ const projectList =
         "website":"https://c0mpli.github.io/personalwebsite/",
         "github":"https://github.com/c0mpli/personalwebsite",
         "tools": ["React.js", "GSAP", "Framer-motion"],
+        inView:false
     }
 
 ]

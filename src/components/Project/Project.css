@@ -7,7 +7,9 @@
     color:white;
     display: flex;
     height: 100vh;
-    padding: 5rem;
+    padding:0 5rem;
+    padding-top: 10rem;
+    overflow-x: hidden;
 }
 
 img{
@@ -51,8 +53,12 @@ button{
     font-size: 1rem;
     border: none;
     outline: none;
+    cursor: pointer;
 }
-
+button:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
 
 
 @media(max-width:1180px){
