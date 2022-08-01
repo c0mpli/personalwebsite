@@ -6,7 +6,7 @@ const projectList =
         "description":"Khoj is a website to rescue pets and give them a shelter (Hackathon project).",
         image: require('./images/khoj.png'),
         "website":"#",
-        "github":"#",
+        "github":"https://github.com/c0mpli/Need-for-code-23",
         "tools": ["HTML", "CSS", "Javascript"],
         inView:false
     },
