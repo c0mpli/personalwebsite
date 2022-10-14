@@ -7,7 +7,7 @@ const projectList =
         image: require('./images/iete-website.png'),
         "website":"https://ietetsec.in/",
         "github":"https://ietetsec.in/",
-        "tools": ["React.js", "MongoDB", "framer-motion"],
+        "tools": ["React.js", "MongoDB", "Framer-motion"],
         inView:false
     },
     {
