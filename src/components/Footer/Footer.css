@@ -23,6 +23,8 @@ footer ul{
 
 footer ul li a{
     cursor: pointer;
+    text-decoration: none;
+    color: white;
 }
 
 footer li:hover{
