@@ -6,7 +6,7 @@ const projectList =
         image: require('./images/HMP.png'),
         "website":"https://project-hmp.vercel.app/",
         "github":"",
-        "tools": ["MERN"],
+        "tools": ["React.js","MongoDB","Node.js","Express.js"],
         inView:false
     },
     {
@@ -15,7 +15,7 @@ const projectList =
         "description":"A website for IETE-TSEC to showcase their events, gallery, accept responses and more about them.",
         image: require('./images/iete-website.png'),
         "website":"https://ietetsec.in/",
-        "github":"https://ietetsec.in/",
+        "github":"",
         "tools": ["React.js", "MongoDB", "Framer-motion"],
         inView:false
     },
@@ -34,7 +34,7 @@ const projectList =
         "name":"Ally",
         "description":"Ally is a website for dementia patients to help them overcome their problem (Hackathon project).",
         image: require('./images/ally.jpg'),
-        "website":"https://github.com/c0mpli/PiedPiper-TSEC-Hacks-2022",
+        "website":"",
         "github":"https://github.com/c0mpli/PiedPiper-TSEC-Hacks-2022",
         "tools": ["HTML", "CSS", "Javascript"],
         inView:false

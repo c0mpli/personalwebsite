@@ -43,8 +43,16 @@ function Project(){
                                 
                                 </ul>
                                 <div className='project-buttons'>
-                                    <button  onClick={() => openInNewTab(project.website)}>Open site</button>
-                                    <button onClick={() => openInNewTab(project.github)}>View code</button>
+                                    {
+                                        project.website && (
+                                            <button  onClick={() => openInNewTab(project.website)}>Open site</button>
+                                        )
+                                    }
+                                    {
+                                        project.github && (
+                                            <button onClick={() => openInNewTab(project.github)}>View code</button>
+                                        )
+                                    }
                                 </div>
                             </motion.div>
                         </div>   
