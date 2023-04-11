@@ -1,5 +1,16 @@
 const projectList = [
   {
+    id: 0,
+    name: "Aanchal",
+    description:
+      "A website for parents to track & control their children's activities online through our app and web extension.",
+    image: require("./images/aanchal.png"),
+    website: "https://aanchal-neon.vercel.app/",
+    github: "https://github.com/c0mpli/aanchal",
+    tools: ["MERN Stack", "Kotlin", "Web Extensions"],
+    inView: false,
+  },
+  {
     id: 1,
     name: "Blindr",
     description:
