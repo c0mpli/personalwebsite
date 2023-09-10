@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/personalwebsite/static/css/main.585c3374.css",
-    "main.js": "/personalwebsite/static/js/main.d7581d90.js",
+    "main.js": "/personalwebsite/static/js/main.c69f725f.js",
     "static/js/787.6568e1bc.chunk.js": "/personalwebsite/static/js/787.6568e1bc.chunk.js",
     "static/media/blindr.png": "/personalwebsite/static/media/blindr.ae832e3a43bd0efd8d68.png",
     "static/media/khoj.png": "/personalwebsite/static/media/khoj.d7697df95295e86322fc.png",
+    "static/media/bloop.png": "/personalwebsite/static/media/bloop.f5820a1c716ef019ab11.png",
     "static/media/aanchal.png": "/personalwebsite/static/media/aanchal.85e2739fc20ec1c92c88.png",
     "static/media/HMP.png": "/personalwebsite/static/media/HMP.fe86151fc5229fbb7e90.png",
-    "static/media/iete-website.png": "/personalwebsite/static/media/iete-website.f4b3d44d6bef273938ee.png",
+    "static/media/iete-website.PNG": "/personalwebsite/static/media/iete-website.f4b3d44d6bef273938ee.PNG",
     "static/media/pw.png": "/personalwebsite/static/media/pw.4f23d5aab75c7ea7bac4.png",
     "static/media/mailme.png": "/personalwebsite/static/media/mailme.0745aeab860128cb0c1b.png",
     "static/media/ally.jpg": "/personalwebsite/static/media/ally.67121eb177b9c74a2e08.jpg",
     "static/media/personIcon.png": "/personalwebsite/static/media/personIcon.396ef378ca75af71485d.png",
     "index.html": "/personalwebsite/index.html",
     "main.585c3374.css.map": "/personalwebsite/static/css/main.585c3374.css.map",
-    "main.d7581d90.js.map": "/personalwebsite/static/js/main.d7581d90.js.map",
+    "main.c69f725f.js.map": "/personalwebsite/static/js/main.c69f725f.js.map",
     "787.6568e1bc.chunk.js.map": "/personalwebsite/static/js/787.6568e1bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.585c3374.css",
-    "static/js/main.d7581d90.js"
+    "static/js/main.c69f725f.js"
   ]
 }
