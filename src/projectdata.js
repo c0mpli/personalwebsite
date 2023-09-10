@@ -1,6 +1,15 @@
 const projectList = [
   {
-    id: 0,
+    name: "Bloop",
+    description:
+      "An unique UI simulation of operating system for web and mobile platforms",
+    image: require("./images/bloop.png"),
+    website: "https://bloop-nine.vercel.app/",
+    github: "",
+    tools: ["React.js"],
+    inView: false,
+  },
+  {
     name: "Aanchal",
     description:
       "A website for parents to track & control their children's activities online through our app and web extension.",
@@ -11,7 +20,6 @@ const projectList = [
     inView: false,
   },
   {
-    id: 1,
     name: "Blindr",
     description:
       "A blind dating website with features like chatroom, maps, games, matching algorithms, facial verification, etc.",
@@ -22,7 +30,6 @@ const projectList = [
     inView: false,
   },
   {
-    id: 2,
     name: "Mail Me",
     description: "Mail yourself anything without logging in.",
     image: require("./images/mailme.png"),
@@ -32,7 +39,6 @@ const projectList = [
     inView: false,
   },
   {
-    id: 3,
     name: "Physiotherapist Website",
     description:
       "A website for Heath Matthew Physiotherapist to help him track his user's progress on his courses.",
@@ -43,18 +49,16 @@ const projectList = [
     inView: false,
   },
   {
-    id: 4,
     name: "IETE-TSEC Website",
     description:
       "A website for IETE-TSEC to showcase their events, gallery, accept responses and more about them.",
-    image: require("./images/iete-website.png"),
+    image: require("./images/iete-website.PNG"),
     website: "https://ietetsec.in/",
     github: "",
     tools: ["React.js", "MongoDB", "Framer-motion"],
     inView: false,
   },
   {
-    id: 5,
     name: "Khoj",
     description:
       "Khoj is a website to rescue pets and give them a shelter (Hackathon project).",
@@ -65,7 +69,6 @@ const projectList = [
     inView: false,
   },
   {
-    id: 6,
     name: "Ally",
     description:
       "Ally is a website for dementia patients to help them overcome their problem (Hackathon project).",
@@ -76,7 +79,6 @@ const projectList = [
     inView: false,
   },
   {
-    id: 7,
     name: "Personal Website",
     description: "Personal website made to showcase skills and projects",
     image: require("./images/pw.png"),
