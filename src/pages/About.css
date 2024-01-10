@@ -1,0 +1,38 @@
+.about-content-wrapper {
+	padding: 0 12rem;
+	display: flex;
+	flex-direction: row-reverse;
+	color: white;
+	align-items: center;
+	justify-content: space-between;
+	height: 70vh;
+	gap: 2rem;
+	width: 100%;
+}
+
+.about-content-wrapper > p {
+	font-size: 1.6rem;
+	line-height: 1.5;
+	font-weight: 300;
+	color: #fff;
+	margin-bottom: 1rem;
+	width: 400%;
+}
+
+@media screen and (max-width: 977px) {
+	.about-content-wrapper {
+		padding: 0 1rem;
+		display: block;
+		margin-top: 2rem;
+		height: 100%;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+	}
+	.about-content-wrapper > p {
+		font-size: 1.2rem;
+		width: 100%;
+		text-align: justify;
+		margin-top: 2rem;
+	}
+}
