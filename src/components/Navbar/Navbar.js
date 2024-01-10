@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 function Navbar({ style }) {
 	return (
 		<nav className="navbar" style={style}>
-			<Link to="/" className="logo">
+			<Link to="/personalwebsite" className="logo">
 				JD
 			</Link>
 			<ul>
 				<li>
 					{" "}
-					<Link to="/about" className="resume">
+					<Link to="/personalwebsite/about" className="resume">
 						<strong>About</strong>
 					</Link>
 				</li>
