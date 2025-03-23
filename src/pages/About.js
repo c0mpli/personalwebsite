@@ -13,9 +13,11 @@ import img2 from "../images/about/2.jpeg";
 import img3 from "../images/about/3.jpeg";
 import img4 from "../images/about/4.jpeg";
 import img5 from "../images/about/5.jpeg";
-import img6 from "../images/about/6.jpg";
+import img6 from "../images/about/6.jpeg";
+import img7 from "../images/about/7.jpeg";
+import img8 from "../images/about/8.jpeg";
 function About() {
-	const images = [img1, img2, img3, img4, img5];
+	const images = [img1, img2, img3, img4, img5, img6, img7, img8];
 	return (
 		<>
 			<Navbar style={{ animation: "none" }} />
