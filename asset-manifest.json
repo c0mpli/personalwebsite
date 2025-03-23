@@ -1,12 +1,15 @@
 {
   "files": {
     "main.css": "/personalwebsite/static/css/main.e8fd3f1a.css",
-    "main.js": "/personalwebsite/static/js/main.b35a7da6.js",
+    "main.js": "/personalwebsite/static/js/main.be393d48.js",
     "static/js/787.6568e1bc.chunk.js": "/personalwebsite/static/js/787.6568e1bc.chunk.js",
     "static/media/blindr.png": "/personalwebsite/static/media/blindr.ae832e3a43bd0efd8d68.png",
     "static/media/khoj.png": "/personalwebsite/static/media/khoj.d7697df95295e86322fc.png",
     "static/media/bloop.png": "/personalwebsite/static/media/bloop.f5820a1c716ef019ab11.png",
+    "static/media/8.jpeg": "/personalwebsite/static/media/8.814b6973bfb5a84e3592.jpeg",
     "static/media/aanchal.png": "/personalwebsite/static/media/aanchal.85e2739fc20ec1c92c88.png",
+    "static/media/6.jpeg": "/personalwebsite/static/media/6.aba1604bfc693ec3c142.jpeg",
+    "static/media/7.jpeg": "/personalwebsite/static/media/7.d15e7f421def0802d65c.jpeg",
     "static/media/HMP.png": "/personalwebsite/static/media/HMP.fe86151fc5229fbb7e90.png",
     "static/media/1.jpeg": "/personalwebsite/static/media/1.1347f16525358b9a689a.jpeg",
     "static/media/5.jpeg": "/personalwebsite/static/media/5.5201d9af7293bf8b937e.jpeg",
@@ -14,18 +17,17 @@
     "static/media/4.jpeg": "/personalwebsite/static/media/4.bef62dda63d19d5be809.jpeg",
     "static/media/3.jpeg": "/personalwebsite/static/media/3.b9f9533430e3d62fdb96.jpeg",
     "static/media/iete-website.PNG": "/personalwebsite/static/media/iete-website.f4b3d44d6bef273938ee.PNG",
-    "static/media/6.jpg": "/personalwebsite/static/media/6.21d806e03a5ce4cf38e8.jpg",
     "static/media/pw.png": "/personalwebsite/static/media/pw.4f23d5aab75c7ea7bac4.png",
     "static/media/mailme.png": "/personalwebsite/static/media/mailme.0745aeab860128cb0c1b.png",
     "static/media/ally.jpg": "/personalwebsite/static/media/ally.67121eb177b9c74a2e08.jpg",
     "static/media/personIcon.png": "/personalwebsite/static/media/personIcon.396ef378ca75af71485d.png",
     "index.html": "/personalwebsite/index.html",
     "main.e8fd3f1a.css.map": "/personalwebsite/static/css/main.e8fd3f1a.css.map",
-    "main.b35a7da6.js.map": "/personalwebsite/static/js/main.b35a7da6.js.map",
+    "main.be393d48.js.map": "/personalwebsite/static/js/main.be393d48.js.map",
     "787.6568e1bc.chunk.js.map": "/personalwebsite/static/js/787.6568e1bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8fd3f1a.css",
-    "static/js/main.b35a7da6.js"
+    "static/js/main.be393d48.js"
   ]
 }
