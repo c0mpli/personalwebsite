@@ -1,33 +1,37 @@
 {
   "files": {
-    "main.css": "/personalwebsite/static/css/main.e8fd3f1a.css",
-    "main.js": "/personalwebsite/static/js/main.be393d48.js",
+    "main.css": "/personalwebsite/static/css/main.6c3ac4e0.css",
+    "main.js": "/personalwebsite/static/js/main.54955d81.js",
     "static/js/787.6568e1bc.chunk.js": "/personalwebsite/static/js/787.6568e1bc.chunk.js",
     "static/media/blindr.png": "/personalwebsite/static/media/blindr.ae832e3a43bd0efd8d68.png",
     "static/media/khoj.png": "/personalwebsite/static/media/khoj.d7697df95295e86322fc.png",
+    "static/media/apnaghar.png": "/personalwebsite/static/media/apnaghar.317ae8c13e4c1d68b33b.png",
     "static/media/bloop.png": "/personalwebsite/static/media/bloop.f5820a1c716ef019ab11.png",
     "static/media/8.jpeg": "/personalwebsite/static/media/8.814b6973bfb5a84e3592.jpeg",
     "static/media/aanchal.png": "/personalwebsite/static/media/aanchal.85e2739fc20ec1c92c88.png",
     "static/media/6.jpeg": "/personalwebsite/static/media/6.aba1604bfc693ec3c142.jpeg",
     "static/media/7.jpeg": "/personalwebsite/static/media/7.d15e7f421def0802d65c.jpeg",
     "static/media/HMP.png": "/personalwebsite/static/media/HMP.fe86151fc5229fbb7e90.png",
+    "static/media/kahaani.png": "/personalwebsite/static/media/kahaani.4060b89640993841ba36.png",
     "static/media/1.jpeg": "/personalwebsite/static/media/1.1347f16525358b9a689a.jpeg",
+    "static/media/numa.png": "/personalwebsite/static/media/numa.bb18e02d5f0ecee4f84b.png",
     "static/media/5.jpeg": "/personalwebsite/static/media/5.5201d9af7293bf8b937e.jpeg",
     "static/media/2.jpeg": "/personalwebsite/static/media/2.320cd0f09af259ed3408.jpeg",
     "static/media/4.jpeg": "/personalwebsite/static/media/4.bef62dda63d19d5be809.jpeg",
     "static/media/3.jpeg": "/personalwebsite/static/media/3.b9f9533430e3d62fdb96.jpeg",
+    "static/media/techthree.png": "/personalwebsite/static/media/techthree.c8ffb43b885c7b670dc0.png",
     "static/media/iete-website.PNG": "/personalwebsite/static/media/iete-website.f4b3d44d6bef273938ee.PNG",
-    "static/media/pw.png": "/personalwebsite/static/media/pw.4f23d5aab75c7ea7bac4.png",
     "static/media/mailme.png": "/personalwebsite/static/media/mailme.0745aeab860128cb0c1b.png",
-    "static/media/ally.jpg": "/personalwebsite/static/media/ally.67121eb177b9c74a2e08.jpg",
+    "static/media/solblocks.png": "/personalwebsite/static/media/solblocks.7bc45397e34986aaad73.png",
     "static/media/personIcon.png": "/personalwebsite/static/media/personIcon.396ef378ca75af71485d.png",
+    "static/media/iitd.png": "/personalwebsite/static/media/iitd.6f4c2ebd572ad79e60fe.png",
     "index.html": "/personalwebsite/index.html",
-    "main.e8fd3f1a.css.map": "/personalwebsite/static/css/main.e8fd3f1a.css.map",
-    "main.be393d48.js.map": "/personalwebsite/static/js/main.be393d48.js.map",
+    "main.6c3ac4e0.css.map": "/personalwebsite/static/css/main.6c3ac4e0.css.map",
+    "main.54955d81.js.map": "/personalwebsite/static/js/main.54955d81.js.map",
     "787.6568e1bc.chunk.js.map": "/personalwebsite/static/js/787.6568e1bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8fd3f1a.css",
-    "static/js/main.be393d48.js"
+    "static/css/main.6c3ac4e0.css",
+    "static/js/main.54955d81.js"
   ]
 }
