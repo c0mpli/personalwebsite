@@ -63,15 +63,7 @@ function About() {
 							{images.map((image, index) => {
 								return (
 									<SwiperSlide key={index}>
-										<img
-											src={image}
-											style={{
-												width: "25rem",
-												height: "25rem",
-												borderRadius: "100%",
-												objectFit: "cover",
-											}}
-										/>
+										<img src={image} className="about-image" />
 									</SwiperSlide>
 								);
 							})}

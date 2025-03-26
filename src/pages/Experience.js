@@ -66,9 +66,7 @@ function Experience() {
 	];
 	return (
 		<>
-			<div
-				style={{ padding: "0 8.5rem", marginTop: "5rem", marginBottom: "5rem" }}
-			>
+			<div className="experience">
 				<VerticalTimeline>
 					{experienceData.map((item, index) => (
 						<VerticalTimelineElement
