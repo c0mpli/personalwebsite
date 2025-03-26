@@ -30,7 +30,7 @@
 	width: 25rem;
 	height: 25rem;
 	border-radius: 100%;
-	object-fit: "cover";
+	object-fit: cover;
 }
 @media screen and (max-width: 977px) {
 	.about-content-wrapper {
