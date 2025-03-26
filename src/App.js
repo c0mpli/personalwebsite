@@ -18,7 +18,7 @@ function App() {
 		<Splash />
 	) : (
 		<Routes>
-			<Route path="/personalwebsite" element={<Landing />} />
+			<Route path="/" element={<Landing />} />
 		</Routes>
 	);
 }
