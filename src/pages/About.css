@@ -27,9 +27,9 @@
 	margin-bottom: 1rem;
 }
 .about-image {
-	width: "25rem";
-	height: "25rem";
-	border-radius: "100%";
+	width: 25rem;
+	height: 25rem;
+	border-radius: 100%;
 	object-fit: "cover";
 }
 @media screen and (max-width: 977px) {
