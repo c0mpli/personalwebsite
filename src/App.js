@@ -3,6 +3,7 @@ import Splash from "./components/Splash/Splash";
 import { useEffect, useState } from "react";
 import Landing from "./pages/Landing";
 import About from "./pages/About";
+import Achievement from "./pages/Achievement";
 
 function App() {
 	const [loading, setLoading] = useState(false);
@@ -18,8 +19,6 @@ function App() {
 	) : (
 		<Routes>
 			<Route path="/personalwebsite" element={<Landing />} />
-
-			<Route path="/personalwebsite/about" element={<About />} />
 		</Routes>
 	);
 }

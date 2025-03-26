@@ -10,15 +10,8 @@ function Navbar({ style }) {
 			<ul>
 				<li>
 					{" "}
-					<Link to="/personalwebsite/about" className="resume">
-						<strong>About</strong>
-					</Link>
-				</li>
-
-				<li>
-					{" "}
 					<a
-						href="https://drive.google.com/file/d/1hv_D6zbdtweRxODPDiMbw7_3u1_Ebfim/view?usp=sharing"
+						href="https://drive.google.com/file/d/1Sba3cczKRPk6TKKkjnu8uFkOSQyyHv8n/view?usp=sharing"
 						className="resume"
 						target="__blank"
 					>
